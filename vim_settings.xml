@@ -1,0 +1,380 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Downloads/wechat.py" timestamp="1562132523984">
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="0" />
+        <mark key="." line="231" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/067-add-binary.py" timestamp="1557869187985">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/018-four-sum.py" timestamp="1562553938278">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1556247766010">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/FormulaCore/PyFormula/modules/term.py" timestamp="1562736224365">
+        <mark key="[" line="157" column="9" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/formula/PyFormula/modules/__init__.py" timestamp="1562618891656">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/FormulaCore/PyFormula/compiler.py" timestamp="1562737951032">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/CTL/pCTL.py" timestamp="1557375029459">
+        <mark key="[" line="41" column="39" />
+        <mark key="]" line="41" column="39" />
+        <mark key="^" line="48" column="69" />
+        <mark key="." line="41" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/FormulaCore/formula/PyFormula/.gitignore" timestamp="1562643681856">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/prolog/exercise/exercise-1-4.pl" timestamp="1556465735155">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/1038-binary-search-tree-to-greater-sum-tree.py" timestamp="1557527583440">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/z3/railway_test.py" timestamp="1555524267683">
+        <mark key="[" line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/121-best-time-to-buy-and-sell-stock.py" timestamp="1562563057368">
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/1039-minimum-score-triangulation-of-polygon.py" timestamp="1557541256072">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/053-maximum-subarray.py" timestamp="1562561526941">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="^" line="17" column="17" />
+        <mark key="." line="29" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/011-container-with-most-water.py" timestamp="1562516084815">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/.gitignore" timestamp="1555524922362">
+        <mark key="[" line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/004-median-of-two-sorted-arrays.py" timestamp="1557632820814">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/1037-valid-boomerang.py" timestamp="1557383694644">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/FormulaCore/formula/PyFormula/modules/term.py" timestamp="1562642714040">
+        <mark key="[" line="25" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/026-remove-duplicates-from-sorted-array.py" timestamp="1557636118243">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/066-plus-one.py" timestamp="1557853968361">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/FormulaCore/formula/PyFormula/main.py" timestamp="1562641957379">
+        <mark key="[" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/formula/PyFormula/modules/term.py" timestamp="1562640306535">
+        <mark key="'" line="67" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="83" column="22" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/027-remove-element.py" timestamp="1557636981275">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/formula/PyFormula/term.py" timestamp="1562612797607">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/venv3/Lib/site-packages/pyecore/ecore.py" timestamp="1555522960434">
+        <mark key="[" line="640" column="71" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/036-valid-sudoku.py" timestamp="1557875386690">
+        <mark key="[" line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/CTL/ctmc.py" timestamp="1557714844789">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/FormulaCore/PyFormula/test.py" timestamp="1565331334548">
+        <mark key="'" line="0" column="5" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/021-merge-two-sorted-lists.py" timestamp="1557378840335">
+        <mark key="[" line="1" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/formula/PyFormula/modules/constraint.py" timestamp="1562637124430">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="4" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="35" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/prolog/examples/descendant.pl" timestamp="1556483132798">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/038-count-and-say.py" timestamp="1557853314847">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/017-letter-combinations-of-a-phone-number.py" timestamp="1557558237849">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/039-combination-sum.py" timestamp="1557700136470">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+        <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/FormulaCore/formula/PyFormula/modules/constraint.py" timestamp="1562641876247">
+        <mark key="[" line="3" column="13" />
+      </file>
+      <file name="/Python Console" timestamp="1562738912626">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/z3/models/railway-batch-1.xmi" timestamp="1555524488420">
+        <mark key="[" line="19" column="57" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/formula/PyFormula/main.py" timestamp="1562640520469">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="82" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/formula/PyFormula/___init__.py" timestamp="1562612839044">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/formula/PyFormula/relation.py" timestamp="1562611754020">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/037-sudoku-solver.py" timestamp="1557882768629">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/028-implement-str-str.py" timestamp="1557637817400">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/013-roman-to-integer.py" timestamp="1557377783795">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/FormulaCore/formula/PyFormula/compiler.py" timestamp="1562641942327">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/venv/Lib/site-packages/pyecore/resources/xmi.py" timestamp="1555512121333">
+        <mark key="[" line="53" column="33" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/z3/SimpleFormula.py" timestamp="1555623875785">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/prolog/examples/lines.pl" timestamp="1556479819311">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/016-three-sum-closest.py" timestamp="1557884679894">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/033-search-in-rotated-sorted-array.py" timestamp="1557885188815">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/haskell/myDrop.hs" timestamp="1560122697036">
+        <mark key="[" line="0" column="72" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562130862026">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/023-merge-k-sorted-lists.py" timestamp="1563292763237">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/022-generate-parentheses.py" timestamp="1557554882644">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/FormulaCore/formula/PyFormula/modules/relation.py" timestamp="1562641891633">
+        <mark key="[" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/004-median-of-two-sorted-arrays.py" timestamp="1562554112529">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/formula/PyFormula/rule.py" timestamp="1562611405442">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/FormulaCore/PyFormula/modules/constraint.py" timestamp="1562644096242">
+        <mark key="[" line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/z3/verify_functional_program.py" timestamp="1554445535942">
+        <mark key="[" line="63" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/prolog/exercise/exercise-4-3.pl" timestamp="1556502448125">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/034-find-first-and-last-position-of-element-in-sorted-array.py" timestamp="1557691283873">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/FormulaCore/formula/PyFormula/modules/rule.py" timestamp="1562641917339">
+        <mark key="[" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/015-three-sum.py" timestamp="1562553501136">
+        <mark key="[" line="22" column="57" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/prolog/examples/list.pl" timestamp="1556483972291">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/model-checker-playground/z3/models/Ecore.ecore" timestamp="1555518666541">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/024-swap-nodes-in-pairs.py" timestamp="1557627971154">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/035-search-insert-position.py" timestamp="1557688643924">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/projects/leetcode/python/040-combination-sum-2.py" timestamp="1557874915453">
+        <mark key="[" line="3" column="85" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="48" column="9" filename="$USER_HOME$/Desktop/projects/model-checker-playground/z3/quantifiers.py" />
+      <jump line="3" column="14" filename="$USER_HOME$/Desktop/projects/model-checker-playground/formula/integer_swap.4ml" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/projects/model-checker-playground/formula/integer_swap.4ml" />
+      <jump line="107" column="42" filename="$USER_HOME$/Desktop/projects/model-checker-playground/CTL/dtmc.py" />
+      <jump line="23" column="42" filename="$USER_HOME$/Desktop/projects/model-checker-playground/formula/PyFormula/modules/term.py" />
+      <jump line="52" column="4" filename="$USER_HOME$/Desktop/projects/model-checker-playground/formula/PyFormula/modules/term.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/projects/FormulaCore/PyFormula/test.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Desktop/projects/FormulaCore/PyFormula/test.py" />
+      <jump line="3" column="5" filename="$USER_HOME$/Desktop/projects/FormulaCore/PyFormula/test.py" />
+      <jump line="9" column="4" filename="$USER_HOME$/Desktop/projects/FormulaCore/PyFormula/test.py" />
+      <jump line="0" column="5" filename="$USER_HOME$/Desktop/projects/FormulaCore/PyFormula/test.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmIA==</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxoZWxsb1w+</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVmIA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmhhc2ggPSBzZWxmLl9faGFzaF9fKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2VxX18oc2VsZiwgb3RoZXIpOgogICAgICAgIHJldHVybiBzZWxmLl9faGFzaF9fKCkgPT0gb3RoZXIuX19oYXNoX18oKQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRpbmdzX2xpc3QuYXBwZW5kKGJpbmRpbmdzKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBpZiBuZXcgYmluZGluZ3MgaXMgZW1wdHksIGl0IG1lYW5zIHRoYXQgcHJldmlvdXMgYmluZGluZ3MgZG9lcyBub3Qgd29yayBmb3IgdGhpcyBmYWN0LgogICAgICAgICAgICAgICAgICAgICAgICBpZiBsZW4obmV3X2JpbmRpbmdzKSA+IDA6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVsYXRpb24gPSBjb25zdHJhaW50LmdldF9yZWxhdGlvbigpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZ3NfbGlzdCA9IFtdCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxoZWxsb1w+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxoZWxsb1w+</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>d</entry>
+        <entry>hello</entry>
+        <entry encoding="base64">XDxoZWxsb1w+</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
